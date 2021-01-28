@@ -8,7 +8,6 @@ import { lightTheme, darkTheme } from "../styles/theme"
 import { useDarkMode } from "../hooks"
 import GlobalStyle from "../styles/globalStyle"
 import Header from "./header"
-import Footer from "./footer"
 
 // https://medium.com/@chrisfitkin/how-to-smooth-scroll-links-in-gatsby-3dc445299558
 if (typeof window !== "undefined") {
